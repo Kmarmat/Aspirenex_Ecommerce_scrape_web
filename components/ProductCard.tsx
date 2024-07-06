@@ -1,4 +1,3 @@
-"use client";
 import { Product } from "@/types";
 import Image from "next/image";
 import Link from "next/link";

@@ -1,4 +1,3 @@
-"use client";
 import Link from "next/link";
 import React, { useEffect } from "react";
 import { AiFillProduct } from "react-icons/ai";

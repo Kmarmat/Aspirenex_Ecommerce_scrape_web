@@ -1,4 +1,3 @@
-"use client";
 import HeroCarousel from "@/components/HeroCarousel";
 import Searchbar from "@/components/Searchbar";
 import { getAllProducts } from "@/lib/actions";
